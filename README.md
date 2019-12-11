@@ -4,7 +4,7 @@ It's an open-source method using different R libraries. Useful for 3D phenotypic
 
 ![pipeline overview](https://github.com/alikhuseynov/registSurAuto3d/blob/master/pipeline_overview.png)
 
-same files and examples are on [Research gate](https://www.researchgate.net/publication/327022430_Automatic_R_Pipeline_for_3D_surface-based_registration)
+same files and examples are on [researchgate](https://www.researchgate.net/publication/327022430_Automatic_R_Pipeline_for_3D_surface-based_registration)
 DOI: 10.13140/RG.2.2.16081.63849 
 
 #### *Note: R version 3.3 was used here.* You will need to compile the packages/libraries that are used in [R script]( https://github.com/alikhuseynov/registSurAuto3d/blob/master/pipeline_example.R)
